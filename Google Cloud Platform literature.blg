@@ -1,0 +1,36 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Google Cloud Platform literature.aux
+The style file: IEEEtran.bst
+Database file #1: database.bib
+"{" immediately follows a field name---line 8 of file database.bib
+ :  \url
+ :      {(https://cloud.google.com/why-google/).cloud.google.com}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 77 of file database.bib
+ :  title
+ :       {Bringing together the best of PaaS and IaaS. Google Cloud Platform Blog. 2014-03-27.} year={Retrieved 2014-04-05.},
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author in s1
+Warning--empty journal in s1
+Warning--empty author in s2
+Warning--empty journal in s2
+Warning--empty author in s3
+Warning--empty journal in s3
+Warning--empty year in s3
+Warning--empty author in s15
+Warning--empty title in s15
+Warning--empty journal in s15
+Warning--empty year in s15
+Warning--empty author in s8
+Warning--empty journal in s8
+Warning--empty author in s5
+Warning--empty journal in s5
+Warning--empty author in s12
+Warning--empty journal in s12
+Warning--empty author in s11
+Warning--empty journal in s11
+
+Done.
+(There were 2 error messages)
